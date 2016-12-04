@@ -1,0 +1,2 @@
+# Collatz-Conjecture-Calculator-with-User-Input-Java-
+A calculator that allows the user to input a starting number, then proceeds to multiply the number by 3 then add 1 if the number is odd, or divides the number by 2 if it is even, this process continues until the number reaches 1 and the program ends and shows you all of the steps taken to reach one and also counts the steps for you. This is based on a famous maths problem known as Collatz Conjecture.
